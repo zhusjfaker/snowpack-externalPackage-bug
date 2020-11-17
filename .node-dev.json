@@ -1,0 +1,21 @@
+{
+  "ignore": [
+    ".git",
+    "node_modules",
+    "build",
+    "dist",
+    "log",
+    "typings/auto-generated",
+    "web",
+    "package.json",
+    "package-lock.json",
+    "yarn.lock",
+    "README.md",
+    "tsconfig.json",
+    "tsconfig.test.json",
+    "build.sh",
+    "bootstap.sh",
+    ".gitignore",
+    ".prettierrc"
+  ]
+}
